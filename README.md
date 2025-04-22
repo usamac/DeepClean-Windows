@@ -52,9 +52,7 @@ Designed for IT professionals, technicians, and power users.
 
 ## 📦 Download
 
-[👉 Click here to download the latest version (ZIP)](https://github.com/YOUR-USERNAME/DeepClean-Windows/releases)
-
-> Replace `YOUR-USERNAME` with your actual GitHub username in the URL
+[👉 Click here to download the latest version (ZIP)](https://github.com/USAMAC/DeepClean-Windows/releases)
 
 ---
 
