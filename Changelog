@@ -1,0 +1,5 @@
+# Changelog
+
+## v1.0 - 2025-04-22
+- Initial release of DeepClean.bat
+- Full system cleanup, logging, optional reboot
