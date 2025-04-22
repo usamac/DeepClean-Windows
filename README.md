@@ -1,54 +1,64 @@
-# DeepClean.bat – Ultimate Windows Cleanup Script
+# DeepClean.bat – Windows Cleanup Script by USAMAC
 
-A batch script built for IT pros and Windows power users to deep clean Windows 10 and 11 systems. Automates common maintenance tasks like temp file deletion, prefetch cleanup, file explorer reset, and system file scanning.
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+![Windows](https://img.shields.io/badge/platform-Windows-blue)
+![Batch Script](https://img.shields.io/badge/script-.bat-orange)
 
 ---
 
-## 💻 What It Does
+> ⚠️ Use at your own risk. This script is provided as-is with no guarantee. Always review and test before using in production environments.
+
+## 🔧 What is DeepClean.bat?
+
+A one-click batch script for **deep cleaning Windows 10 and 11** systems.  
+Designed for IT professionals, technicians, and power users.
+
+---
+
+## ✅ What It Does
 
 ### 🔁 App & File Lock Handling
-- Kills common file-locking apps like Word, Excel, Chrome, Teams, etc.
+- Kills common file-locking apps: Word, Excel, Chrome, Teams, etc.
 
 ### 🧹 Cleans System Junk
 - `%temp%`
 - `C:\Windows\Temp`
-- `C:\Windows\Prefetch` *(with ownership and permission fixes)*
+- `C:\Windows\Prefetch` *(with ownership fix)*
 - `C:\Windows\SoftwareDistribution\Download`
 
 ### 🗂 File Explorer History Reset
 - Clears:
-  - Run history
-  - Dialog paths
+  - Run dialog
+  - File Open/Save history
   - RecentDocs
-  - File Explorer Home (Favorites & Recent)
-  - Jump lists
+  - Explorer Home (Favorites + Recents)
+  - Jump list entries
 
 ### 🧰 OS Maintenance
-- Deletes `Windows.old` (if present)
-- Opens **Disk Cleanup** in admin mode
+- Deletes `Windows.old` if present
+- Launches **Disk Cleanup** (admin)
 - Runs `sfc /scannow`
 
-### 📝 Logging
-- Saves a detailed log to your Desktop: `Cleanup_Log.txt`
-- Logs all deletions, errors, and actions with timestamps
+### 📋 Logging
+- Creates a log file:  
+  `%UserProfile%\Desktop\Cleanup_Log.txt`
+- Logs all actions, errors, and a final summary
 
-### 🔄 Optional Restart
-- Prompts user to reboot with 10-second delay
-- Skipping reboot opens log in Notepad
-
----
-
-## ⚠️ Safe For Use On:
-- Workstations
-- Home PCs
-- Shared machines
-- Fresh installs or upgrades
-
-## 🔒 Does Not Touch:
-- Installed apps
-- Pinned Quick Access
-- Personal browser data or passwords
+### 🔁 Restart Prompt
+- Offers a reboot at the end
+- Skipping opens the log in Notepad
 
 ---
 
-> Want to suggest improvements? Open a pull request or issue! This script is actively evolving with feedback from real-world IT usage.
+## 📦 Download
+
+[👉 Click here to download the latest version (ZIP)](https://github.com/YOUR-USERNAME/DeepClean-Windows/releases)
+
+> Replace `YOUR-USERNAME` with your actual GitHub username in the URL
+
+---
+
+## 📜 License
+
+Licensed under the [MIT License](LICENSE)  
+(c) 2025 USAMAC
