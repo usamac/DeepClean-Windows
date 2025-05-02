@@ -20,3 +20,4 @@ Generates a privacy-safe system summary, excluding sensitive identifiers such as
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\SysSum-Redac.ps1
+
