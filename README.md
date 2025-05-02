@@ -47,7 +47,10 @@ Both scripts generate `.txt` reports with:
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
-.\ScriptName.ps1
+Navigate to where file saved: 
+cd $env:USERPROFILE\Desktop
+
+.\SysSum.ps1
 
 ---
 
