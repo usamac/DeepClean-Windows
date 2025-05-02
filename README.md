@@ -47,3 +47,14 @@ Both scripts generate `.txt` reports with:
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\ScriptName.ps1
+
+---
+
+## 🧾 Versioning
+
+This project uses manual version tags to mark meaningful public updates.
+
+Latest Release:  
+[![GitHub release](https://img.shields.io/github/v/release/usamac/ScriptVault?style=flat-square)](https://github.com/usamac/ScriptVault/releases)
+
+View all changes in the [Changelog](./CHANGELOG.md).
