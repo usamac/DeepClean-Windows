@@ -1,4 +1,4 @@
-# Contributing to DeepClean.bat
+# Contributing ScriptVault
 
 Thanks for your interest in improving or helping with DeepClean!
 
@@ -19,3 +19,9 @@ Right now this is a solo project by USAMAC, but:
 
 ## 📦 Questions?
 Use Issues to start a discussion — and thanks for supporting the project!
+
+
+## Contributing
+
+Found a bug or have an idea? Open an issue or submit a pull request.  
+Scripts are intended to stay portable and offline-first — keep it lean.
