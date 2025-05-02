@@ -14,3 +14,6 @@ If you discover a potential security issue or risk, please:
   - Or post a generic issue and request contact
 
 All reports will be reviewed quickly. I’ll work with you to resolve the issue responsibly.
+
+Thiese projects are not intended for sensitive or production-critical systems.  
+For issues or concerns, please open a GitHub issue or discussion.
