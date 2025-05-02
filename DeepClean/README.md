@@ -1,4 +1,9 @@
-# 🪹 DeepClean.bat
+# 🧹 DeepClean.bat
+
+![Batch](https://img.shields.io/badge/language-Batchfile-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Tool Type](https://img.shields.io/badge/type-System%20Cleaner-green)
+![Built by USAMAC](https://img.shields.io/badge/Built%20by-USAMAC-black)
 
 A powerful Windows cleanup script that clears junk files, temp folders, residual caches, logs, and more — with an optional reboot prompt and cleanup log output.
 
@@ -58,10 +63,10 @@ A cleanup log will be saved to your Desktop:
 
 ## 🧩 Compatibility
 
-✅ Compatible with Windows 10 and 11
- ❌ Not designed for Windows Server or legacy systems
- ❌ Avoid running within 10 days of a clean install
- ❌ Avoid running immediately after a major Windows upgrade (within 10-day rollback window)
+* ✅ Compatible with Windows 10 and 11
+* ❌ Not designed for Windows Server or legacy systems
+* ❌ Avoid running within 10 days of a clean install
+* ❌ Avoid running immediately after a major Windows upgrade (within 10-day rollback window)
 
 ---
 
@@ -74,5 +79,3 @@ A cleanup log will be saved to your Desktop:
 ---
 
 Let me know when you’re ready to generate a custom DeepClean banner, add an optional download `.zip`, or start v1.1 planning!
-
- 
