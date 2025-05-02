@@ -46,6 +46,7 @@ Both scripts generate `.txt` reports with:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 .\ScriptName.ps1
 
 ---
