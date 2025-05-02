@@ -59,9 +59,9 @@ A cleanup log will be saved to your Desktop:
 ## 🧩 Compatibility
 
 ✅ Compatible with Windows 10 and 11
-❌ Not designed for Windows Server or legacy systems
-❌ Avoid running within 10 days of a clean install
-❌ Avoid running immediately after a major Windows upgrade (within 10-day rollback window)
+ ❌ Not designed for Windows Server or legacy systems
+ ❌ Avoid running within 10 days of a clean install
+ ❌ Avoid running immediately after a major Windows upgrade (within 10-day rollback window)
 
 ---
 
