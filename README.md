@@ -1,4 +1,4 @@
-![USAMAC ScriptVault Banner](./assets/ScriptVault Banner2.png)
+assets/ScriptVault Banner2.png
 # 🧰 USAMAC ScriptVault
 
 ![License](https://img.shields.io/badge/license-MIT-green)
